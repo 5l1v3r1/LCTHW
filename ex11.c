@@ -16,9 +16,9 @@ int main(int argc, char *argv[])
 	numbers[2] = 3;
 	numbers[3] = 4;
 
-	name[0] = 'Z';
-	name[1] = 'e';
-	name[2] = 'd';
+	name[0] = 'D';
+	name[1] = 'G';
+	name[2] = 'C',
 	name[3] = '\0';
 
 	printf("numbers; %d %d %d %d\n",numbers[0],numbers[1],numbers[2],numbers[3]);
